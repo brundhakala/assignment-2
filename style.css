@@ -1,0 +1,57 @@
+#p1{
+    color: brown;
+    text-align: center; 
+    background-color: aliceblue; 
+padding:2px; 
+margin:5px; 
+border:2px solid black;
+} 
+body{
+    background-color:pink;
+}
+#p2{
+    color:white;
+    text-align: left;
+    background-color:brown ; 
+    padding:2px;
+    margin:10px 2px 10px 2px ; 
+    border:2px solid blue;
+} 
+#para{
+    color:black;
+} 
+#b{
+    color:white;
+    text-align: left;
+    background-color:brown ; 
+    padding-left: 2px;
+    margin:10px 2px 10px 2px;
+    border:2px solid blue;
+} 
+a{
+    color:green;
+}
+a:hover{
+    color:red;
+} 
+/*a:visited{
+    color:black;
+}*/ 
+#new{
+    color:brown;
+    text-align:center;
+}
+#p3{
+    color:white;
+    text-align: left;
+    background-color:brown ; 
+    padding-left: 2px;
+    margin:10px 2px 10px 2px;
+    border:2px solid blue;
+}   
+#pa{
+    color:black;
+}
+
+
+}
